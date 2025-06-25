@@ -47,7 +47,7 @@ Use your time however you like, but if you want a guideline:
 
 # Design
 To make this easier, we’ve included a basic design mockup you can follow:
-👉 View the mockup here (Figma or image link)
+👉 View the mockup [here](https://www.figma.com/design/oBoNbs3O3j7zazji3w0V9c/Nest-Lite?node-id=0-1&t=nF8fMDHfINHWt95s-1)
 
 You’re free to adapt the layout as needed — this is just a starting point.
 
