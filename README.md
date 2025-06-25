@@ -18,13 +18,6 @@ This is your chance to showcase your ability to work across the stack, interact 
   - Amount
   - Timestamp
 
-**Bonus points for:**
-- 🧪 Including tests (unit or integration)
-- 🎨 Clean and responsive UI/UX
-- 🚀 Performance optimizations (e.g., caching)
-- 🔍 Filtering/searching transactions
-- 📦 Deployment to a public URL (e.g., Vercel, Netlify)
-
 ## Expectations
 
 We’re not looking for pixel-perfect design.
