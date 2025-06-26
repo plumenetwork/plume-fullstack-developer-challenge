@@ -12,20 +12,13 @@ This is your chance to showcase your ability to work across the stack, process w
 
 **Your application should allow users to:**
 - ✅ Connect their crypto wallets (e.g., MetaMask).
-- 📊 View their Nest token balance.
-- 🧾 View a list of Nest token transactions, including:
+- 📊 View their Nest token balance for nALPHA and nTBILL.
+- 🧾 View a list of the user's historical Nest token transactions, including:
   - Transaction hash
   - From/To addresses
+  - Token name
   - Amount
   - Timestamp
-
-**Bonus points for:**
-- 🧪 Including tests (unit or integration)
-- 🎨 Clean and responsive UI/UX
-- 🚀 Performance optimizations (e.g., caching)
-- 🔍 Filtering/searching transactions
-- 📦 Deployment to a public URL (e.g., Vercel, Netlify)
-- 🛸 Adding more to the frontend or backend that will serve the users
 
 ## Expectations
 
@@ -48,10 +41,10 @@ Use your time however you like, but if you want a guideline:
    - A link to your deployed app (if available)
 
 # Design
-To make this easier, we’ve included a basic design mockup you can follow:
-👉 View the mockup here (Figma or image link)
+We’ve included a basic design mockup you can use as a guide if you want:
+👉 View the mockup [here](https://www.figma.com/design/oBoNbs3O3j7zazji3w0V9c/Nest-Lite?node-id=0-1&t=nF8fMDHfINHWt95s-1)
 
-You’re free to adapt the layout as needed — this is just a starting point.
+You’re free to adapt and expand on this or do something else entirely.
 
 ## FAQs
 
@@ -59,9 +52,19 @@ You’re free to adapt the layout as needed — this is just a starting point.
 
 The Plume blockchain is a decentralized, EVM-compatible platform optimized for real-world asset (RWA) applications. [Learn more](https://docs.plume.org/)
 
+You can search up contracts, transactions, wallet addresses, etc via the explorer at: https://explorer.plume.org/.
+
 **❓ What is Nest?**
 
 Nest is an RWA protocol built on Plume. It enables users to deposit stablecoins into on-chain vaults and earn yield backed by tokenized real-world assets. [Learn more](https://docs.nest.credit/)
+
+**❓ What are nALPHA and nTBILL?**
+
+nALPHA and nTBILL are two vaults within the Nest ecosystem, implemented as BoringVault contracts that conform to the ERC-20 standard. These contracts function not only as vaults that hold assets but also as receipt tokens. When a user deposits pUSD into a Nest vault, they receive an equivalent amount of the corresponding ERC-20 token. These tokens represent the user’s share of the vault and their claim on the underlying assets, including any yield accrued over time.
+
+nALPHA: https://explorer.plume.org/token/0x593cCcA4c4bf58b7526a4C164cEEf4003C6388db
+
+nTBILL: https://explorer.plume.org/token/0xE72Fe64840F4EF80E3Ec73a1c749491b5c938CB9
 
 **❓ What is an ERC-20 token?**
 
