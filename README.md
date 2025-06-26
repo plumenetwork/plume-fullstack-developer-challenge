@@ -19,6 +19,8 @@ This is your chance to showcase your ability to work across the stack, process w
   - Token name
   - Amount
   - Timestamp
+ 
+You're encouraged to include anything else that would be helpful to hypotentical users or that showcases some interesting engineering aspects you want to share.
 
 ## Expectations
 
