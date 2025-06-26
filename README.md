@@ -3,9 +3,10 @@
 ## Overview
 
 Welcome to the Plume Fullstack Developer Challenge!
+
 In this challenge, you'll build a full-stack web application that allows users to connect their wallets and view both their Nest token balances and transaction history on the Plume blockchain.
 
-This is your chance to showcase your ability to work across the stack, interact with blockchain data, and present it cleanly to users.
+This is your chance to showcase your ability to work across the stack, process with blockchain data, and present it to users.
 
 ## Challenge Requirements
 
@@ -21,9 +22,9 @@ This is your chance to showcase your ability to work across the stack, interact 
 
 ## Expectations
 
-We’re not looking for pixel-perfect design.
-
 This is primarily a functionality-focused challenge. The goal is to understand how you structure fullstack apps, interact with blockchain data, and present it clearly.
+
+If you're a FE focused engineer, feel free to spend more time on the UI / App layer and showcase your work there.  If you're more experienced on the system side of things, you can focus on the backend and chain interactions and we can talk through that.
 
 Use your time however you like, but if you want a guideline:
 
@@ -40,10 +41,10 @@ Use your time however you like, but if you want a guideline:
    - A link to your deployed app (if available)
 
 # Design
-To make this easier, we’ve included a basic design mockup you can follow:
+We’ve included a basic design mockup you can use as a guide if you want:
 👉 View the mockup [here](https://www.figma.com/design/oBoNbs3O3j7zazji3w0V9c/Nest-Lite?node-id=0-1&t=nF8fMDHfINHWt95s-1)
 
-You’re free to adapt the layout as needed — this is just a starting point.
+You’re free to adapt and expand on this or do something else entirely.
 
 ## FAQs
 
@@ -75,7 +76,7 @@ We estimate this should take around 2–4 hours to complete, but you’re welcom
 
 ## Useful Links
 
-- 🔗 Plume Documentation
-- 🔗 Nest Documentation
-- 🔗 ethers.js or viem
-- 🔗 wagmi – for wallet integration
+- 🔗 [Plume Documentation](https://docs.plume.org/plume)
+- 🔗 [Nest Documentation](https://docs.nest.credit/)
+- 🔗 [ethers.js or viem](https://github.com/wevm/viem)
+- 🔗 [wagmi – for wallet integration](https://wagmi.sh/)
